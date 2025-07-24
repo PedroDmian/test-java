@@ -1,0 +1,10 @@
+### Procesar préstamo
+POST http://localhost:8080/api/loans/process
+Content-Type: application/json
+
+{
+  "dateCurrent": "2021-02-15",
+  "interest": 7.50,
+  "tax": 16,
+  "days": 360
+}
