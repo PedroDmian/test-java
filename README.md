@@ -1,0 +1,1 @@
+<img src="./screen.png" alt="Screenshot of the app" width="100%">
